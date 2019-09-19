@@ -11,8 +11,8 @@ github_repo: "https://github.com/HZYou/HZYou.github.io.git" # you code repositor
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "记录成就更好的自我!"
+sidebar-avatar: /img/about-yong-gentle.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
