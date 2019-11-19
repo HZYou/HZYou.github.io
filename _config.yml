@@ -1,10 +1,10 @@
 # Site settings
-title: Yong Blog
-SEOTitle: Yong 的博客 | Yong Blog
+title: You Blog
+SEOTitle: You 的博客 | You Blog
 header-img: img/post-bg-desk.jpg
 email: hzy9385@gmail.com
 description: "天道酬勤"
-keyword: "Yong, Yong' Blog, Yong的博客, ionic, flutter, iOS, Apple, iPhone"
+keyword: "You, You' Blog, You的博客, ionic, flutter, iOS, Apple, iPhone"
 url: "http://HZYou.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/HZYou/HZYou.github.io.git" # you code repository

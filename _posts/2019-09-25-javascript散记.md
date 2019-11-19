@@ -3,11 +3,10 @@ layout:     post
 title:      JavaScript 散记
 subtitle:   记录 JavaScript 不易理解、散知识点等，不定期更新
 date:       2019-09-25
-author:     Yong
+author:     You
 header-img: img/post-bg-js-version.jpg
 catalog: true
 tags:
-    - js
     - JavaScript
     - 技术
 ---
